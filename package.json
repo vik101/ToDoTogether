@@ -19,9 +19,12 @@
     "test": "cross-env NODE_ENV=test karma start",
     "test:watch": "cross-env NODE_ENV=test karma start --autoWatch=true --singleRun=false --reporters=mocha,coverage"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vik101/ToDoTogether"
+  },
   "keywords": [],
-  "author": "Your name here",
+  "author": "Vikram Tomar",
   "devDependencies": {
     "babel-core": "^6.7.6",
     "babel-eslint": "^7.1.0",
