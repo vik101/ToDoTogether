@@ -1,0 +1,9 @@
+{
+  "generator-react-webpack": {
+    "appName": "to-do-together",
+    "style": "less",
+    "cssmodules": true,
+    "postcss": false,
+    "generatedWithVersion": 4
+  }
+}
