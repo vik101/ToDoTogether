@@ -3,7 +3,6 @@ A To-do web app using react, webpack and flux to manage a team to-do list asynch
 
 Out of the box I include Webpack and some default React components.
 
-? Please choose your application name to-do-together
-? Which style language do you want to use? less
-? Enable css module support? See https://github.com/gajus/react-css-modules for further info Yes
-? Enable postcss? No
+- **Which style language do you want to use?** less
+- **Enable css module support? See https://github.com/gajus/react-css-modules for further info** Yes
+- **Enable postcss?** No
